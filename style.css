@@ -1,0 +1,14 @@
+.main {
+    
+ padding-left: 20%;
+    
+}
+img {
+    box-sizing:border-box;
+
+    width: 25%;
+    height: 25%;
+}
+h1{
+    text-align: center;
+}
